@@ -1,7 +1,6 @@
-# Projeto - Calculadora 🧮
-## Realizado com apoio do canal [Dicas para Devs](https://www.youtube.com/c/dicasparadevs), no YouTube.
+# Projeto - Calculadora 
 
-- Acesse meu LinkedIn (https://www.linkedin.com/in/jo%C3%A3o-victor-338640184/)
+- Acesse meu LinkedIn https://www.linkedin.com/in/jo%C3%A3o-victor-338640184/
 
 ## Projeto:
 
